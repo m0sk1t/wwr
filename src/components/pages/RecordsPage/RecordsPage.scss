@@ -1,0 +1,24 @@
+.records-page {
+  margin: 1rem;
+  height: 272px;
+  display: flex;
+  flex-flow: column;
+  border: 2px solid;
+  align-items: center;
+  border-radius: 12px;
+  color: whitesmoke !important;
+  background: rgba(16, 12, 74, 0.2) !important;
+  box-shadow: inset 3px 4px 63px rgba(255, 255, 255, 0.25);
+  border-image-source: linear-gradient(270deg, #514D67 -1.31%, rgba(209, 206, 232, 0) 50%);
+
+  header {
+    width: 100%;
+    display: flex;
+    padding: 8px 0;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 4px 4px 0px 0px;
+    box-shadow: inset 0px 4px 12px #FFFFFF;
+    background: radial-gradient(101.35% 101.35% at 50% 22.11%, rgba(255, 255, 255, 0.19) 0%, rgba(24, 20, 53, 0.26) 71.87%), #9747FF;
+  }
+}

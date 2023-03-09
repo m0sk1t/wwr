@@ -1,0 +1,18 @@
+.players-list-page {
+  margin: 1rem;
+  height: 272px;
+  display: flex;
+  flex-flow: column;
+  border: 2px solid;
+  align-items: center;
+  border-radius: 12px;
+  color: whitesmoke;
+  background: rgba(16, 12, 74, 0.2);
+  box-shadow: inset 3px 4px 63px rgba(255, 255, 255, 0.25);
+  border-image-source: linear-gradient(270deg, #514D67 -1.31%, rgba(209, 206, 232, 0) 50%);
+
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+}

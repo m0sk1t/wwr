@@ -1,0 +1,14 @@
+.rating-header {
+  gap: 4px;
+  width: 322px;
+  height: 83px;
+  padding: 0px 0px 0px 8px;
+  border-radius: 4px 0px 0px 0px;
+  box-shadow: inset 0px 4px 12px #FFFFFF;
+  background: radial-gradient(101.35% 101.35% at 50% 22.11%, rgba(255, 255, 255, 0.19) 0%, rgba(24, 20, 53, 0.26) 71.87%), #9747FF;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
